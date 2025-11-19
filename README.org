@@ -1,0 +1,14 @@
+#+TITLE: Math Notes
+
+This is just a repository where I can dump notes on various topics of
+mathematics that I have written. I wouldn't call this repository entirely
+useful, but if you find any use out of it be warned that I'm not claiming that
+anything found in this repository is 100% accurate or complete as sometimes I'm
+just jotting things down to be reviewed and revised later.
+
+For notes that I have other topics feel free to browse any of the other "Notes"
+repositories found on my GitHub or visit [[notes.ethancpost.com]].
+
+* Topics
+  Here are some of the topics I have:
+  - [[./LinearAlgebra/README.org][Linear Algebra]]: The study of vector spaces and linear transformations.
