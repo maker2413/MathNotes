@@ -11,4 +11,5 @@ repositories found on my GitHub or visit [[notes.ethancpost.com]].
 
 * Topics
   Here are some of the topics I have:
+  - [[./Algebra/README.org][Algebra]]: Math that uses symbols to represent numbers and solve equations.
   - [[./LinearAlgebra/README.org][Linear Algebra]]: The study of vector spaces and linear transformations.
