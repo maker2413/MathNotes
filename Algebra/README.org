@@ -1,1 +1,20 @@
 #+TITLE: Algebra
+
+Algebra is math that uses symbols to represent numbers and solve equations.
+
+* Origins
+  The ideas and even the word "Algebra" comes from the ancient text:
+  "[[https://www.loc.gov/item/2021666184/][Kitab al-Jabr wa-l-Muqabala]]" or as it translates to in English:
+  "The Compendious Book on Calculation by Completion and Balancing".
+
+  This book was written by a Persian mathematician: "Muhammad ibn Musa
+  al-Khwarizmi" around 820 AD. "Algebra" is the Arabic word that translates to
+  "restoration or completion".
+
+* Abstract-ness
+  We will be using the word abstract a lot throughout algebra so it is important
+  to have an idea of what abstract means within the world of algebra.
+
+  Abstraction is like taking a real thing and turning it into an idea. We can
+  use a cube as an example. Even though cubes can look different in real life,
+  the abstract idea of what a cube is stays the same.
